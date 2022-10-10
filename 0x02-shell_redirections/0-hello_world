@@ -1,2 +1,2 @@
 #!/bin/bash
-hello world | sort 'hello world'
+cat hello, World | sort 'hello, World'
